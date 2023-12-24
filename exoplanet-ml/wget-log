@@ -1,0 +1,194 @@
+130.167.201.60
+Connecting to archive.stsci.edu (archive.stsci.edu)|130.167.201.60|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/ [following]
+--2023-12-22 21:28:28--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/
+Connecting to archive.stsci.edu (archive.stsci.edu)|130.167.201.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html.tmp’
+
+     0K .......                                               100% 5.76M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:28 (5.76 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html.tmp since it should be rejected.
+
+--2023-12-22 21:28:28--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=N;O=D
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=N;O=D.tmp’
+
+     0K .......                                               100%  630M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:28 (630 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=N;O=D.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=N;O=D.tmp since it should be rejected.
+
+--2023-12-22 21:28:28--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=M;O=A
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=M;O=A.tmp’
+
+     0K .......                                               100%  619M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:28 (619 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=M;O=A.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=M;O=A.tmp since it should be rejected.
+
+--2023-12-22 21:28:28--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=S;O=A
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=S;O=A.tmp’
+
+     0K .......                                               100% 1000K=0.007s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:28 (1000 KB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=S;O=A.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=S;O=A.tmp since it should be rejected.
+
+--2023-12-22 21:28:28--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=D;O=A
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=D;O=A.tmp’
+
+     0K .......                                               100%  531M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:28 (531 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=D;O=A.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=D;O=A.tmp since it should be rejected.
+
+--2023-12-22 21:28:28--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2009166043257_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2009166043257_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2009259160929_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2009259160929_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2009350155506_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2009350155506_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2010009091648_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2010009091648_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2010174085026_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2010174085026_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2010265121752_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2010265121752_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2010355172524_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2010355172524_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2011177032512_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2011177032512_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2011271113734_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2011271113734_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2012004120508_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2012004120508_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2012179063303_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2012179063303_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2012277125453_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2012277125453_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2013011073258_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2013011073258_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/kplr011442793-2013131215648_llc.fits
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/kplr011442793-2013131215648_llc.fits’ not modified on server. Omitting download.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=N;O=A
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=N;O=A.tmp’
+
+     0K .......                                               100%  665M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:29 (665 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=N;O=A.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=N;O=A.tmp since it should be rejected.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=M;O=D
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=M;O=D.tmp’
+
+     0K .......                                               100%  547M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:29 (547 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=M;O=D.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=M;O=D.tmp since it should be rejected.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=S;O=D
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=S;O=D.tmp’
+
+     0K .......                                               100% 3.02M=0.002s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:29 (3.02 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=S;O=D.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=S;O=D.tmp since it should be rejected.
+
+--2023-12-22 21:28:29--  https://archive.stsci.edu/pub/kepler/lightcurves/0114/011442793/?C=D;O=D
+Reusing existing connection to archive.stsci.edu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7287 (7.1K) [text/html]
+Saving to: ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=D;O=D.tmp’
+
+     0K .......                                               100% 11.0M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 21:28:29 (11.0 MB/s) - ‘/home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=D;O=D.tmp’ saved [7287/7287]
+
+Removing /home/daksh/Projects/exoplanet-detection/exoplanet-ml/data/0114/011442793/index.html?C=D;O=D.tmp since it should be rejected.
+
+FINISHED --2023-12-22 21:28:29--
+Total wall clock time: 1.5s
+Downloaded: 9 files, 64K in 0.01s (5.53 MB/s)
